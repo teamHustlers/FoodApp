@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#DC4586</color>
+
+    <color name="colorPrimaryDark">#352a49</color>
+    <color name="colorAccent">#DC4586</color>
+    <color name="backgroundColor">#fcfcfc</color>
+    <color name="dashboardBackground">#F1F5F8</color>
+    <color name="azur">#F1F5F8</color>
+    <color name="lightGray">#EDEDED</color>
+    <color name="deepPurple">#7C4DFF</color>
+    <color name="yellow">#FFB300</color>
+    <color name="green">#00BFA5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="pink">#F16FAA</color>
+    <color name="dividerLight">#f2f2f2</color>
+    <color name="orderIconFG">#504C4C</color>
+    <color name="orderIconBG">#e0e0e0</color>
+    <color name="total">#EE2A25</color>
+    <color name="loginPrimary">#49738b</color>
+    <color name="loginPrimaryDark">#2e5077</color>
+</resources>

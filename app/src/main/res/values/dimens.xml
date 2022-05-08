@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="activity_margin">16sp</dimen>
+
+    <dimen name="orderRowTitleSize">16sp</dimen>
+    <dimen name="orderRowMarginLarge">16dp</dimen>
+    <dimen name="orderRowMarginSmall">8dp</dimen>
+    <dimen name="orderRowIconSize">64dp</dimen>
+    <dimen name="orderRowIconPadding">6dp</dimen>
+    <dimen name="orderRowStatusIconSize">16dp</dimen>
+    <dimen name="row_icon_size">64dp</dimen>
+    <dimen name="menu_card_width">160dp</dimen>
+    <dimen name="menu_card_height">212dp</dimen>
+
+</resources>

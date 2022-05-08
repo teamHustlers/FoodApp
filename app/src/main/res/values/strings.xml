@@ -1,0 +1,115 @@
+<resources>
+
+    <string name="app_name">Cakes.lk</string>
+    <!-- Main view -->
+    <string name="main_employee">Employee</string>
+    <string name="main_view_employee">View Employee</string>
+    <string name="main_cake">Cakes</string>
+    <string name="main_view_cake">View Cakes</string>
+    <string name="main_supplier">Supplier</string>
+    <string name="main_view_supplier">View Supplier</string>
+    <string name="main_product">Product</string>
+    <string name="main_view_product">View Product</string>
+
+    <!-- Cakes -->
+    <string name="add_cake">Adding cake</string>
+    <string name="cake_name">Cake Name</string>
+    <string name="selling_price">Price</string>
+    <string name="description">Description</string>
+    <string name="add_cakes">Add</string>
+    <string name="cake_update">Editing Cake</string>
+    <string name="edit">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cake_search">Search Cake</string>
+    <string name="Manipulate">Manipulate Cake</string>
+    <string name="cake_flavour">Cake Flavour</string>
+    <string name="cake_desc_hint">Cake Description</string>
+    <string name="cake_price_hint">0.00</string>
+    <string name="cake_qty">Quantity</string>
+
+    <array name="category">
+        <item>"Please select a Flavour"</item>
+        <item>Chocolate</item>
+        <item>Vanilla</item>
+        <item>Strawberry</item>
+    </array>
+
+    <array name="cake">
+        <item>Vanilla</item>
+        <item>Chocolate</item>
+        <item>Strawberry</item>
+    </array>
+
+
+    <string name="add_order">Adding Order</string>
+    <string name="sup_name">Supplier Name</string>
+    <string name="type">Product Type</string>
+    <string name="Quantity">Quantity</string>
+    <string name = "order_quant_hine">0</string>
+    <string name = "order_amount_hine">0.00</string>
+    <string name="t_amount"> Unit Price </string>
+    <string name="total">Total Amount </string>
+    <string name="add">Add</string>
+    <string name="Order_update">Editing Order</string>
+    <string name="edit_order">Update</string>
+    <string name="delete_order">Delete</string>
+    <string name="Order_search">Search Order</string>
+
+    <array name="product">
+        <item>"Please select the Product"</item>
+        <item>Eggs</item>
+        <item>Icing Creams</item>
+        <item>Butter</item>
+        <item>Flour</item>
+        <item>Vanilla and Choclate Essense</item>
+        <item>Decorate Items</item>
+    </array>
+
+    <array name="order">
+        <item>Eggs</item>
+        <item>Icing Creams</item>
+        <item>Butter</item>
+        <item>Flour</item>
+        <item>Vanilla and Choclate Essense</item>
+        <item>Decorate Items</item>
+    </array>
+
+    <string name="eggs_and_milk">Eggs and Milk</string>
+    <string name="halal_farm">Halal Farm</string>
+
+    <string name="n_sup">Add</string>
+
+    <string name="sup_add">Adding Supplier</string>
+
+    <string name="pName">Supplier Name </string>
+    <string name="Snum">Supplier Account Number</string>
+    <string name="Pnum">Phone Number</string>
+    <string name="Sadd">Address</string>
+
+
+    <string name="S_num">12345</string>
+    <string name="P_num">0771234567</string>
+    <string name="Add">NB 0741 united states</string>
+
+
+    <!-- Menu -->
+    <string name="menu">Menu</string>
+    <string name="profile_setting">Profile</string>
+    <string name="logout">Log out</string>
+    <string name="braun">braun</string>
+    <string name="Supplier_search">Supplier</string>
+    <string name="todo">TODO</string>
+    <string name="add_employee">Adding Employee</string>
+    <string name="emp_name">Employee Name</string>
+    <string name="emp_num">Employee Number</string>
+    <string name="emp_address">Employee Address</string>
+    <string name="emp_sal">Employee Salary</string>
+    <string name="emp_update">Updating Employee</string>
+    <string name="emp_search">Search Employee</string>
+    <string name="edit_sup">Editing Supplier</string>
+    <string name="s_sup">Search Supplier</string>
+    <string name="deli">Transport Charge</string>
+    <string name="del_tot">Total Transport Charge</string>
+    <string name="emp_bon">Employee Bonus</string>
+    <string name="total_E">Employee Total</string>
+</resources>
